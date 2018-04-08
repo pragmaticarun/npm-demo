@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/pragmaticarun/npm-demo#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.3"
   },
   "devDependencies": {
