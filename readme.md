@@ -1,1 +1,1 @@
-This is a demo for npm package manager. 
+This is a demo for npm package manager.
